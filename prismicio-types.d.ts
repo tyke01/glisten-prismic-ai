@@ -427,12 +427,12 @@ export interface ShowcaseSliceDefaultPrimary {
   /**
    * Heading field in *Showcase → Default → Primary*
    *
-   * - **Field Type**: Title
+   * - **Field Type**: Rich Text
    * - **Placeholder**: *None*
    * - **API ID Path**: showcase.default.primary.heading
    * - **Documentation**: https://prismic.io/docs/field#rich-text-title
    */
-  heading: prismic.TitleField;
+  heading: prismic.RichTextField;
 
   /**
    * Image field in *Showcase → Default → Primary*
@@ -452,7 +452,7 @@ export interface ShowcaseSliceDefaultPrimary {
    * - **API ID Path**: showcase.default.primary.icon
    * - **Documentation**: https://prismic.io/docs/field#select
    */
-  icon: prismic.SelectField<"Gear" | "Cycle">;
+  icon: prismic.SelectField<"gear" | "cycle">;
 
   /**
    * Subheading field in *Showcase → Default → Primary*

@@ -18,7 +18,7 @@
             "label": "Heading",
             "placeholder": "",
             "allowTargetBlank": true,
-            "single": "heading2"
+            "multi": "heading2"
           }
         },
         "image": {
@@ -35,8 +35,8 @@
             "label": "Icon",
             "placeholder": "",
             "options": [
-              "Gear",
-              "Cycle"
+              "gear",
+              "cycle"
             ]
           }
         },
