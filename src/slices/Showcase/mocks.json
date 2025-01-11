@@ -1,0 +1,84 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Event"
+						}
+					}
+				]
+			},
+			"image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117",
+					"width": 3810,
+					"height": 5715
+				},
+				"url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117",
+				"width": 3810,
+				"height": 5715,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"icon": {
+				"__TYPE__": "FieldContent",
+				"value": "Gear",
+				"type": "Select"
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading3",
+						"content": {
+							"text": "Attack"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Cupidatat enim officia proident ea id amet est. Est incididunt sint exercitation id dolore proident nisi exercitation dolore veniam commodo anim fugiat consectetur amet."
+						}
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "help",
+				"type": "Text"
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"key": "a041f7f7-b927-4fbc-86c6-fcda502e9246",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://slicemachine.dev",
+					"text": "your"
+				}
+			}
+		},
+		"items": []
+	}
+]
